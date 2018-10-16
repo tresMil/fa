@@ -1,0 +1,990 @@
+#EXTM3U
+
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/BKVn5a" group-title="Ivo lista", SE INSCREVA NO MEU CANAL
+   http://www.youtube.com/c/Ivosnovidadestop
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="Ivo lista, Atualizado 06/10/2018
+
+
+#EXTINF:-1 tvg-logo="IMAGEM"  group-title="ivo lista", ivo's canais
+    https://www.megafilme.co/veja-venom-2018-hd-1-online/
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="",Telecine Action SD 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3073.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="" group-title="",Telecine Cult SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3071.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="" group-title="",Telecine Fun SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3069.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="" group-title="",Telecine Pipoca SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3067.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="" group-title="",Telecine Premium SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3065.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="" group-title="",Telecine Touch SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3063.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3088.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="",Discovery Channel SD 
+ Nhttp://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3256.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="",Discovery Civilization SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3254.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="",Discovery Home & Health SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3252.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3245.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="" group-title="",The History Channel SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3256.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="",H2 SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3172.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="",NatGeo Wild SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3134.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3132.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="" group-title="",Band Sports SD 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3278.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="" group-title="",Combate SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3262.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="",ESPN SD 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3227.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="" group-title="",ESPN Brasil SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3231.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="",Fox Sports 2 SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3210.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="",Fox Sports SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3208.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="",Premiere 1 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3118.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="",Premiere 2 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3117.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="",Premiere 3 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3116.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="",Premiere 4 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3115.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="",Premiere 5 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3113.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="" group-title="",Premiere 6 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3111.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="" group-title="",Premiere 7 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3109.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="" group-title="",Premiere 8 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3108.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="" group-title="",Premiere 9 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/386.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="",Premiere Clubes SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3106.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/MhU47EX.png" tvg-logo="#" group-title="Noticias",Record News
+   http://server.brazuca.link/87/mono.m3u8?token=c89e772a35 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGTZrqo.png" tvg-logo="#" group-title="Filmes e Series",Paramount 
+  http://server.brazuca.link/78/mono.m3u8?token=c89e772a35 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name=" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/1/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/2/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/6/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+    http://apk2.futeboltv.com:8081/live/9/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/10/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/11/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo
+   http://apk2.futeboltv.com:8081/live/12/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/13/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/14/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/16/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/18/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo
+   http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://goo.gl/SZ94lw" group-title="Abertos",BAND 
+  http://ev.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://goo.gl/A1WBTk" group-title="Abertos",REDE TV
+   http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://goo.gl/YQ9Ftm" group-title="Abertos",RECORD
+  http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/images/kVFhpJ" group-title="Noticias", RECORD NEWS
+   http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Series",CINE SKY 
+  http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?
+
+
+
+ #EXTINF:-1 tvg-ID="xxxxx" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="Filmes e Series", Classique TV 
+  http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="Gospel Movies Television" tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="Filmes e Series",Gospel Movies Television
+   http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+
+
+#EXTM3U
+
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/BKVn5a" group-title="Ivo lista", SE INSCREVA NO MEU CANAL
+   http://www.youtube.com/c/Ivosnovidadestop
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="Ivo lista, Atualizado 06/10/2018
+
+
+#EXTINF:-1 tvg-logo="IMAGEM"  group-title="ivo lista", ivo's canais
+  "http:Ivo's canal"
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="",Telecine Action SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3073.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="" group-title="",Telecine Cult SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3071.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="" group-title="",Telecine Fun SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3069.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="" group-title="",Telecine Pipoca SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3067.ts?|User-Agent=ExoMedia
+   
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="" group-title="",Telecine Premium SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3065.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="" group-title="",Telecine Touch SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3063.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3088.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="",Discovery Channel SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3256.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="",Discovery Civilization SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3254.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="",Discovery Home & Health SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3252.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3245.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="" group-title="",The History Channel SD 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3256.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="",H2 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3172.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="",NatGeo Wild SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3134.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3132.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="" group-title="",Band Sports SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3278.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="" group-title="",Combate SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3262.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="",ESPN SD 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3227.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="" group-title="",ESPN Brasil SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3231.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="",Fox Sports 2 SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3210.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="",Fox Sports SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3208.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="",Premiere 1 SD
+     http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3118.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="",Premiere 2 SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3117.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="",Premiere 3 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3116.ts?|User-Agent=ExoMedia 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="",Premiere 4 SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3115.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="",Premiere 5 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3113.ts?|User-Agent=ExoMedia
+  
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="" group-title="",Premiere 6 SD http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3111.ts?|User-Agent=ExoMedia
+
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/BKVn5a" group-title="Ivo lista", SE INSCREVA NO MEU CANAL
+   http://www.youtube.com/c/Ivosnovidadestop
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="Ivo lista, Atualizado 06/10/2018
+
+
+#EXTINF:-1 tvg-logo="IMAGEM"  group-title="ivo lista", ivo's canais
+  "http:Ivo's canal"
+
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="" group-title="",Premiere 7 SD
+
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3109.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="" group-title="",Premiere 8 SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3108.ts?|User-Agent=ExoMedia
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="" group-title="",Premiere 9 SD
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/386.ts?|User-Agent=ExoMedia
+
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="",Premiere Clubes SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3106.ts?|User-Agent=ExoMedia
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/1/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/2/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo
+   http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/6/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/9/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/10/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/11/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/12/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/13/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/14/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo
+   http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+   http://apk2.futeboltv.com:8081/live/16/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+   http://apk2.futeboltv.com:8081/live/17/playlist.m3u8
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/18/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Jogos ao vivo" tvg-logo="http://" group-title="Futebol ao vivo",Jogos ao vivo 
+  http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", SBT GO 
+  http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8?ChannelsON
+
+
+
+ #EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", SBT PE 
+  http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+
+
+ #EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", SBT Caruaru 
+  http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", SBT MA
+   http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Record GO 
+   http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8?ChannelsON 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Record MT 
+  http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8?ChannelsON 
+
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Band SP
+   http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON 
+
+
+#EXTINF:-1 tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png" group-title="TV AO VIVO" pltv-subgroup="TV ABERTA", Band PA
+    http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8?ChannelsON 
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="CANAIS", (DUVIDOSO) FOX SPORTS
+    http://tv.factoryiptv.com/live/Lucas02/Lucas02/37099.m3u8
+
+
+
+ #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="CANAIS", (DUVIDOSO) FOX SPORTS 2
+    http://tv.factoryiptv.com/live/paulo01/paulo01/37098.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Canais",A&E 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3291.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Canais",Animal Planet
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3288.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="" group-title="Canais",Arte 1
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3287.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Canais",AXN SD
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3285.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Canais",Baby TV 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3284.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="" group-title="Canais",Band News
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3282.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Canais",Cartoon Network
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3268.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHEFE TV" tvg-logo="" group-title="Canais",CHEFE TV 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3267.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="Canais ",Cinemax 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3265.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="Canais",CNN INTERNACIONAL 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3264.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="" group-title="Canais ",Combate 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3262.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Canais",Comedy Central
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3260.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="" group-title="Canais",Cultura
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3259.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="" group-title="Canais",Curta!
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3258.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Canais",Discovery Channel 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3256.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="Canais",Discovery Civilization 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3254.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Canais",Discovery Home & Health 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3252.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="Canais",Fox Life
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3217.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="" group-title="Canais",FOX PREMIUM 1
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3215.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="" group-title="Canais",FOX PREMIUM 2
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3213.ts
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="Canais",Fox 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3212.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Canais",Fox Sports 2 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3210.ts
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Canais",Fox Sports 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3208.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="" group-title="Canais",Futura
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3207.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Canais",FX 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3205.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AM" tvg-logo="" group-title="Canais",GLOBO AM
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3204.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="" group-title="Canais",GLOBO BAHIA
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3203.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia" tvg-logo="" group-title="Canais",Globo Brasilia
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3201.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CAMPINAS" tvg-logo="" group-title="Canais",GLOBO CAMPINAS 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3200.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Canais",HBO 2
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3170.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="Canais",HBO Family
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3168.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E" tvg-logo="" group-title="Canais",HBO Plus E
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3166.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="Canais",HBO Plus 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3164.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Canais",HBO 
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3163.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="Canais",HBO Signature
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3161.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="HOT MUSIC" tvg-logo="" group-title="Canais",HOT MUSIC
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3160.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="I SAT" tvg-logo="" group-title="Canais",I SAT
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3159.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="Canais",ID 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3157.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="Canais",Lifetime
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3155.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="" group-title="Canais",Mais Globosat
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3153.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime E" tvg-logo="" group-title="Canais",Max Prime E
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3151.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="Canais",Max Prime 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3149.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Canais",MAX
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3148.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Max UP" tvg-logo="" group-title="Canais",Max UP
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3146.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="" group-title="Canais",Megapix 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3144.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Canais",MTV
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3141.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="Canais",Paramount
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3122.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="" group-title="Canais",Play TV
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3121.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="Canais",PLAYBOY
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3120.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="Canais",Premiere 1
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3118.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="Canais",Premiere 2
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3117.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="Canais",Premiere 3
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3116.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="Canais",Premiere 4 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3115.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="Canais",Premiere 5
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3113.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="" group-title="Canais",Premiere 6
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3111.ts 
+  
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="" group-title="Canais",Premiere 7 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3109.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="" group-title="Canais",Premiere 8 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3108.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais",Premiere Clubes
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3106.ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="Sexy hot" tvg-logo="" group-title="Canais",Sexy hot
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3090.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="Canais",Sony
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3088.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Canais",Space
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3086.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="" group-title="Canais",SporTV 2 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3084.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="" group-title="Canais",SporTV 3
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3082.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="" group-title="Canais",SporTV
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3080.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="Canais",SYFY
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3077.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Canais",TCM
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3075.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="Canais",Telecine Action
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3073.ts
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="" group-title="Canais",Telecine Cult
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3071.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="" group-title="Canais",Telecine Fun
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3069.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Canais",Telecine Pipoca
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3067.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="" group-title="Canais",Telecine Premium
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3065.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="" group-title="Canais",Telecine Touch
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3063.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="" group-title="Canais",TERRA VIVA
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3062.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="" group-title="Canais",The History Channel
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3060.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Canais",TLC 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3058.ts
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Canais",TNT 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3056.ts
+
+
+
+ #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="Canais",TNT Series 
+  http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3054.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="Canais",TOONCAST
+   http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3052.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Trutv" tvg-logo="" group-title="Canais",Trutv
+    http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3051.ts
